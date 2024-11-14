@@ -1,0 +1,1 @@
+MultiMonitorTool.exe /disable 1 2 
